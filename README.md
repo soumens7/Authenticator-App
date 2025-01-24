@@ -44,11 +44,8 @@ Copy the Firebase config object.
 3. Install Dependencies
 Run the following commands to set up the project:
 
-# Clone the repository
-git clone https://github.com/yourusername/simple-authenticator.git
-cd simple-authenticator
 
-# Install dependencies
+## Install dependencies
 npm install
 4. Add Firebase Configuration
 Create a firebaseConfig.js file in the src/ folder and paste your Firebase configuration:
