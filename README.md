@@ -44,27 +44,10 @@ Copy the Firebase config object.
 3. Install Dependencies
 Run the following commands to set up the project:
 
-
-## Install dependencies
 npm install
 4. Add Firebase Configuration
-Create a firebaseConfig.js file in the src/ folder and paste your Firebase configuration:
+Create a firebaseConfig.js file in the src folder and paste your Firebase configuration:
 
-
-// src/firebaseConfig.js
-import { initializeApp } from "firebase/app";
-
-const firebaseConfig = {
-  apiKey: "YOUR_API_KEY",
-  authDomain: "YOUR_AUTH_DOMAIN",
-  projectId: "YOUR_PROJECT_ID",
-  storageBucket: "YOUR_STORAGE_BUCKET",
-  messagingSenderId: "YOUR_MESSAGING_SENDER_ID",
-  appId: "YOUR_APP_ID"
-};
-
-const app = initializeApp(firebaseConfig);
-export default app;
 5. Run the App
 Start the development server:
 
