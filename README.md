@@ -71,9 +71,6 @@ export default app;
 5. Run the App
 Start the development server:
 
-bash
-Copy
-Edit
 npm start
 
 ## Available Scripts
