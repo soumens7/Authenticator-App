@@ -15,9 +15,9 @@ Styling: CSS (optional/customizable)
 Build Tool: Create React App or Vite (depending on the setup)  
 
 ## File Structure  
-
-simple-authenticator/  
-├── src/  
+<pre>
+Authenticator-App/  
+ ├── src/  
  │     ├── components/  
  │     │    ├── Create.js         # User sign-up component  
  │     │      ├── Login.js          # User log-in component  
@@ -28,7 +28,7 @@ simple-authenticator/
  │     ├── index.html            # HTML template  
  ├── package.json              # Project dependencies  
  └── README.md                 # Project documentation (you are reading this)  
-
+</pre>
 ## Getting Started  
 1. Prerequisites  
 Node.js installed on your system.  
