@@ -16,18 +16,18 @@ Build Tool: Create React App or Vite (depending on the setup)
 
 ## File Structure  
 
-simple-authenticator/
-├── src/
-│   ├── components/
-│   │   ├── Create.js         # User sign-up component
-│   │   ├── Login.js          # User log-in component
-│   ├── App.js                # Main entry point of the app
-│   ├── firebaseConfig.js     # Firebase configuration and initialization
-│   ├── index.js              # App rendering logic
-├── public/
-│   ├── index.html            # HTML template
-├── package.json              # Project dependencies
-└── README.md                 # Project documentation (you are reading this)
+simple-authenticator/  
+├── src/  
+│   ├── components/  
+│   │   ├── Create.js         # User sign-up component  
+│   │   ├── Login.js          # User log-in component  
+│   ├── App.js                # Main entry point of the app  
+│   ├── firebaseConfig.js     # Firebase configuration and initialization  
+│   ├── index.js              # App rendering logic  
+├── public/  
+│   ├── index.html            # HTML template  
+├── package.json              # Project dependencies  
+└── README.md                 # Project documentation (you are reading this)  
 
 ## Getting Started  
 1. Prerequisites  
